@@ -1,3 +1,5 @@
+DYNAMIC IMPORT NOT WORKING WITH CLEAL CREATE REACT APP PROJECT
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
